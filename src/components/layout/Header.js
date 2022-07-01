@@ -17,7 +17,7 @@ const Header = () => (
       <div className="flex mt-4 sm:mt-0">
       </div>
       <div className="hidden md:block">
-        <Button className="text-sm">Shop Together</Button>
+        <a href="https://ourcart.app.link/30j11Xokirb"><Button className="text-sm">Shop Together</Button></a>
       </div>
     </div>
     </a>

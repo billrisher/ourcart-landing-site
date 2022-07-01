@@ -24,7 +24,7 @@ const Index = () => (
             A collaborative shopping cart designed for busy lives
           </p>
           <p className="mt-8 md:mt-12">
-            <Button size="lg">Download Now</Button>
+            <a href="https://ourcart.app.link/30j11Xokirb"><Button size="lg">Download Now</Button></a>
           </p>
           <p className="mt-4 text-gray-600">Available on iPhone and Android devices</p>
         </div>
@@ -70,7 +70,7 @@ const Index = () => (
         Download Our Cart on the Apple App Store or the Android Play Store now!
       </p>
       <p className="mt-8">
-        <Button size="xl">Shop Together</Button>
+        <a href="https://ourcart.app.link/30j11Xokirb"><Button size="xl">Shop Together</Button></a>
       </p>
     </section>
   </Layout>
